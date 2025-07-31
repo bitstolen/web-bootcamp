@@ -1,0 +1,50 @@
+.color-title {
+    font-weight: normal;
+}
+
+.figure {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+#red {
+    color: red;
+}
+
+#red-figure {
+    background-color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#blue-figure {
+    background-color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#orange-figure {
+    background-color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#green-figure {
+    background-color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#yellow-figure {
+    background-color: yellow;
+}
